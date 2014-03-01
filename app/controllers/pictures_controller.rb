@@ -1,5 +1,4 @@
-class PictureController < Application Controller
-	def index
-		
-	end
+class PicturesController < ApplicationController
+  def index
+  end
 end
